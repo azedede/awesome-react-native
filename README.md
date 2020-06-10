@@ -210,7 +210,7 @@ Content published on the Web.
 * [React Native Styling Cheatsheet ★2679](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 
 ### Howtos
-
+* [How to Localize React Native Apps Elegantly](https://www.instamobile.io/mobile-development/react-native-localization/)
 * [How to add Firebase Auth with React Native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
 * [How to get started with Cloud Firestore on React Native](https://invertase.io/blog/getting-started-with-cloud-firestore-on-react-native)
 * [How to upgrade React Navigation 1.x to 2.x](https://shift.infinite.red/upgrading-from-react-navigation-v1-to-v2-312d932329ba)
